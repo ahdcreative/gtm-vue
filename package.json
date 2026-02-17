@@ -2,6 +2,14 @@
     "name": "@ahdcreative/gtm-vue",
     "version": "1.0.0",
     "description": "Vue 3 plugin for Google Tag Manager",
+    "author": {
+        "name": "AHDCreative",
+        "url": "https://ahd-creative.agency"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ahdcreative/gtm-vue.git"
+    },
     "type": "module",
     "main": "./dist/index.cjs",
     "module": "./dist/index.js",
