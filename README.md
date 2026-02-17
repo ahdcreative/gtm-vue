@@ -1,4 +1,4 @@
-# @ahdcreative/gtm-vue
+# AHDCreative GMTVue
 
 Vue 3 plugin for Google Tag Manager integration, powered by `@ahdcreative/gtm-core`.
 
