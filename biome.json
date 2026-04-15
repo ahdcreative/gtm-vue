@@ -1,5 +1,3 @@
 {
-  "extends": [
-    "@ahdcreative/biome-config"
-  ]
+  "extends": ["@ahdcreative/biome-config"]
 }
