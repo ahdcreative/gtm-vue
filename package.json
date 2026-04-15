@@ -31,7 +31,7 @@
     "check": "biome check .",
     "fix": "biome check --write .",
     "prepare": "npm run build",
-    "release": "npm run prepare && release-it"
+    "release": "npm run fix && npm run prepare && release-it"
   },
   "peerDependencies": {
     "vue": "latest",
