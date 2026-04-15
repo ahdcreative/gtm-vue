@@ -1,6 +1,6 @@
 {
   "name": "@ahdcreative/gtm-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue 3 plugin for Google Tag Manager",
   "author": {
     "name": "AHDCreative",
@@ -33,8 +33,8 @@
     "prepare": "npm run build"
   },
   "peerDependencies": {
-    "vue": "^3.0.0",
-    "vue-router": "^4.0.0"
+    "vue": "latest",
+    "vue-router": "latest"
   },
   "peerDependenciesMeta": {
     "vue-router": {
