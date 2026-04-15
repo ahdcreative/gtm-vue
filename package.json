@@ -1,6 +1,6 @@
 {
   "name": "@ahdcreative/gtm-vue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vue 3 plugin for Google Tag Manager",
   "author": {
     "name": "AHDCreative",
