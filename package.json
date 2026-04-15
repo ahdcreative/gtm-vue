@@ -30,7 +30,8 @@
     "test": "vitest",
     "check": "biome check .",
     "fix": "biome check --write .",
-    "prepare": "npm run build"
+    "prepare": "npm run build",
+    "release": "npm run prepare && release-it"
   },
   "peerDependencies": {
     "vue": "latest",
@@ -48,6 +49,7 @@
     "@ahdcreative/biome-config": "^1.0.0",
     "@biomejs/biome": "^2.4.2",
     "jsdom": "^24.0.0",
+    "release-it": "^19.2.4",
     "tsup": "^8.5.1",
     "typescript": "^5.7.3",
     "vitest": "^2.1.8",
