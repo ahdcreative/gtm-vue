@@ -48,7 +48,7 @@
   "devDependencies": {
     "@ahdcreative/biome-config": "^1.0.0",
     "@biomejs/biome": "^2.4.2",
-    "jsdom": "^24.0.0",
+    "jsdom": "^30.0.0",
     "release-it": "^19.2.4",
     "tsup": "^8.5.1",
     "typescript": "^5.7.3",
